@@ -1,2 +1,3 @@
 # leikjaforritun_22
-# linkur fyrir mbl.is
+# verkefni 1
+## númer 1

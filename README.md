@@ -4,5 +4,4 @@
 >>### [kóði](https://github.com/konni123/leikjaforritun_22/tree/main/Leikur_2_skriftur)
 ># Verkefni 2
 <img src="https://github.com/konni123/leikjaforritun_22/tree/main/konni.jpg" alt="konni kaldi" style="height: 100px; width:100px;"/>
->
-![alt text](github.com/konni123/leikjaforritun_22/tree/main/konni.jpg "konni kaldi")
+![alt text] (https://github.com/konni123/leikjaforritun_22/tree/main/konni2.jpg "konni kúl")

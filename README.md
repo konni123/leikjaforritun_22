@@ -2,7 +2,7 @@
 
 ># Verkefni 1 :smile:
 >>### [linkur á myndband](https://www.youtube.com/watch?v=obdrjt8L__8&ab_channel=JimmyVegas)
->>### [kóði](main/Leikur_2_skriftur)
+>>### [kóði](Leikur_2_skriftur)
 ># Verkefni 2
 >
 >
